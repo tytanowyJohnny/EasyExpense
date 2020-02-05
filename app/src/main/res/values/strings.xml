@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Easy Expense</string>
+
+
+    <!-- welcomeActivity Strings -->
+    <string name="welcome_header">Hi, welcome to Easy Expense!</string>
+    <string name="welcome_loginFirstText">First of all, create an account or login with existing one.</string>
+
+    <string name="welcome_usernameHint">Username</string>
+    <string name="welcome_passwordHint">Password</string>
+
+    <string name="welcome_loginButton">Login</string>
+    <string name="welcome_registerButton">Sign up</string>
+
+    <string name="welcome_snackbarWarning">Ooops! Have you provided username and password?</string>
+    <string name="welcome_snackbarBadCredentials">Are you sure these are correct? Try again.</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
